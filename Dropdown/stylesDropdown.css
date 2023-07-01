@@ -1,0 +1,68 @@
+h2 {
+    text-align: center;
+    font-size: 50px;
+    font-family: lucida handwriting, cursive;
+}
+
+.welcome {
+    text-align: center;
+    font-size: 70px;
+    font-family: lucida handwriting, cursive;
+    padding: 20px;
+}
+
+.dropdown {
+    text-align: center;
+    font-size: 70px;
+    font-family: lucida handwriting, cursive;
+    display: none;
+    background-color: linen;
+    box-shadow: 10px 10px 10px 10px black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.welcome:hover .dropdown {
+    display: block;
+}
+
+.button {
+    text-align: center;
+    font-size: 50px;
+    font-family: verdana, sans-serif;
+    background-color: linen;
+    color: black;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    border: thin solid black;
+    border-radius: 10px;
+}
+
+.anchor {
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    background-color: white;
+    display: none;
+    color: black;
+    text-decoration: none;
+    border: none;
+    box-shadow: 5px 5px black;
+}
+
+.anchor:hover {
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border: none;
+}
+
+.button:hover .anchor {
+    display: block;
+}

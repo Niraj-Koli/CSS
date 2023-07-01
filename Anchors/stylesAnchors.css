@@ -1,0 +1,297 @@
+h1 {
+	text-align: center;
+	font-size: 70px;
+	font-family: lucida handwriting, cursive;
+}
+
+.one:link {
+	font-size: 50px;
+	font-family: lucida handwriting, cursive;
+	text-decoration: none;
+}
+
+.one:visited {
+	font-size: 50px;
+	font-family: lucida handwriting, cursive;
+	color: crimson;
+	text-decoration: none;
+}
+
+.one:hover {
+	font-size: 50px;
+	font-family: lucida handwriting, cursive;
+	color: blue;
+	text-decoration: none;
+}
+
+.one:active {
+	font-size: 50px;
+	font-family: lucida handwriting, cursive;
+	text-decoration: none;
+}
+
+.two:link {
+	font-size: 50px;
+	font-family: garamond, serif;
+	text-decoration: none;
+}
+
+.two:visited {
+	font-size: 50px;
+	font-family: garamond, serif;
+	color: purple;
+	text-decoration: none;
+}
+
+.two:hover {
+	font-size: 50px;
+	font-family: garamond, serif;
+	color: navy;
+	text-decoration: none;
+}
+
+.two:active {
+	font-size: 50px;
+	font-family: garamond, serif;
+	text-decoration: none;
+}
+
+.three:link {
+	font-size: 50px;
+	font-family: courier new, monospace;
+	text-decoration: overline;
+}
+
+.three:visited {
+	font-size: 50px;
+	font-family: courier new, monospace;
+	color: lime;
+	text-decoration: overline;
+}
+
+.three:hover {
+	font-size: 50px;
+	font-family: courier new, monospace;
+	color: yellow;
+	text-decoration: overline;
+}
+
+.three:active {
+	font-size: 50px;
+	font-family: courier new, monospace;
+	text-decoration: overline;
+}
+
+.four:link {
+	font-size: 50px;
+	font-family: georgian, serif;
+	text-decoration: overline;
+}
+
+.four:visited {
+	font-size: 50px;
+	font-family: georgian, serif;
+	color: aqua;
+	text-decoration: overline;
+}
+
+.four:hover {
+	font-size: 50px;
+	font-family: georgian, serif;
+	color: darkorange;
+	text-decoration: overline;
+}
+
+.four:active {
+	font-size: 50px;
+	font-family: georgian, serif;
+	text-decoration: overline;
+}
+
+.five:link {
+	font-size: 50px;
+	font-style: italic;
+	text-decoration: line-through;
+}
+
+.five:visited {
+	font-size: 50px;
+	font-style: italic;
+	color: aquamarine;
+	text-decoration: line-through;
+}
+
+.five:hover {
+	font-size: 50px;
+	font-style: italic;
+	color: azure;
+	text-decoration: line-through;
+}
+
+.five:active {
+	font-size: 50px;
+	font-style: italic;
+	text-decoration: line-through;
+}
+
+.six:link {
+	font-size: 50px;
+	font-family: lucida console, monospace;
+	text-decoration: line-through;
+}
+
+.six:visited {
+	font-size: 50px;
+	font-family: lucida console, monospace;
+	color: deeppink;
+	text-decoration: line-through;
+}
+
+.six:hover {
+	font-size: 50px;
+	font-family: lucida console, monospace;
+	color: deepskyblue;
+	text-decoration: line-through;
+}
+
+.six:active {
+	font-size: 50px;
+	font-family: lucida console, monospace;
+	text-decoration: line-through;
+}
+
+.seven:link {
+	font-size: 50px;
+	font-family: brush script mt, cursive;
+	text-decoration: underline;
+}
+
+.seven:visited {
+	font-size: 50px;
+	font-family: brush script mt, cursive;
+	color: indigo;
+	text-decoration: underline;
+}
+
+.seven:hover {
+	font-size: 50px;
+	font-family: brush script mt, cursive;
+	color: lightslategray;
+	text-decoration: underline;
+}
+
+.seven:active {
+	font-size: 50px;
+	font-family: brush script mt, cursive;
+	text-decoration: underline;
+}
+
+.eight:link {
+	font-size: 50px;
+	font-family: papyrus, fantasy;
+	text-decoration: underline;
+}
+
+.eight:visited {
+	font-size: 50px;
+	font-family: papyrus, fantasy;
+	color: mediumvioletred;
+	text-decoration: underline;
+}
+
+.eight:hover {
+	font-size: 50px;
+	font-family: papyrus, fantasy;
+	color: magenta;
+	text-decoration: underline;
+}
+
+.eight:active {
+	font-size: 50px;
+	font-family: papyrus, fantasy;
+	text-decoration: underline;
+}
+
+.nine:link {
+	font-size: 50px;
+	color: black;
+	font-family: copperplate, fantasy;
+	text-decoration: none;
+	border-style: solid;
+	border-radius: 5px;
+	border-width: thick;
+	border-color: black;
+	display: inline-block;
+}
+
+.nine:visited {
+	font-size: 50px;
+	font-family: copperplate, fantasy;
+	color: darkblue;
+	text-decoration: none;
+	border-style: solid;
+	border-radius: 5px;
+	border-width: thick;
+	border-color: black;
+	display: inline-block;
+}
+
+.nine:hover {
+	font-size: 50px;
+	font-family: copperplate, fantasy;
+	color: black;
+	text-decoration: none;
+	border-style: solid;
+	border-radius: 5px;
+	border-width: thick;
+	border-color: black;
+	display: inline-block;
+	background-color: cyan;
+}
+
+.nine:active {
+	color: black;
+	font-size: 50px;
+	font-family: copperplate, fantasy;
+	text-decoration: none;
+	border-style: solid;
+	border-radius: 5px;
+	border-width: thick;
+	border-color: cyan;
+	display: inline-block;
+	background-color: cyan;
+}
+
+.ten:link {
+	font-size: 50px;
+	font-family: verdana, sans-serif;
+	text-decoration: none;
+	background-color: black;
+	display: inline-block;
+}
+
+.ten:visited {
+	font-size: 50px;
+	font-family: verdana, sans-serif;
+	color: white;
+	text-decoration: none;
+	background-color: black;
+	display: inline-block;
+}
+
+.ten:hover {
+	font-size: 50px;
+	font-family: verdana, sans-serif;
+	color: black;
+	text-decoration: none;
+	background-color: white;
+	display: inline-block;
+}
+
+.ten:active {
+	font-size: 50px;
+	font-family: verdana, sans-serif;
+	text-decoration: none;
+	background-color: white;
+	display: inline-block;
+}

@@ -1,0 +1,1000 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-family: lucida handwriting, cursive;
+}
+
+.black {
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.silver {
+    background-color: silver;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.gray {
+    background-color: gray;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.white {
+    background-color: white;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.maroon {
+    background-color: maroon;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.red {
+    background-color: red;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.purple {
+    background-color: purple;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.fuchsia {
+    background-color: fuchsia;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.green {
+    background-color: green;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.lime {
+    background-color: lime;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.olive {
+    background-color: olive;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.yellow {
+    background-color: yellow;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.navy {
+    background-color: navy;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.blue {
+    background-color: blue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.teal {
+    background-color: teal;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.aqua {
+    background-color: aqua;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.orange {
+    background-color: orange;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.aliceblue {
+    background-color: aliceblue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.antiquewhite {
+    background-color: antiquewhite;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.aquamarine {
+    background-color: aquamarine;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.azure {
+    background-color: azure;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.beige {
+    background-color: beige;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.bisque {
+    background-color: bisque;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.blanchedalmond {
+    background-color: blanchedalmond;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.blueviolet {
+    background-color: blueviolet;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.brown {
+    background-color: brown;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.burlywood {
+    background-color: burlywood;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.cadetblue {
+    background-color: cadetblue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.chartreuse {
+    background-color: chartreuse;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.chocolate {
+    background-color: chocolate;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.coral {
+    background-color: coral;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.cornflowerblue {
+    background-color: cornflowerblue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.cornsilk {
+    background-color: cornsilk;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.crimson {
+    background-color: crimson;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.cyan {
+    background-color: cyan;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.darkblue {
+    background-color: darkblue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.darkcyan {
+    background-color: darkcyan;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.darkgoldenrod {
+    background-color: darkgoldenrod;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.darkgray {
+    background-color: darkgray;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.darkgreen {
+    background-color: darkgreen;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.darkkhaki {
+    background-color: darkkhaki;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.darkmagenta {
+    background-color: darkmagenta;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.darkolivegreen {
+    background-color: darkolivegreen;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.darkorange {
+    background-color: darkorange;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.darkorchid {
+    background-color: darkorchid;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.darkred {
+    background-color: darkred;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.darksalmon {
+    background-color: darksalmon;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.darkseagreen {
+    background-color: darkseagreen;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.darkslateblue {
+    background-color: darkslateblue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.darkslategray {
+    background-color: darkslategray;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.darkturquoise {
+    background-color: darkturquoise;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.darkviolet {
+    background-color: darkviolet;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.deeppink {
+    background-color: deeppink;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.deepskyblue {
+    background-color: deepskyblue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.dimgray {
+    background-color: dimgray;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.dodgerblue {
+    background-color: dodgerblue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.firebrick {
+    background-color: firebrick;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.floralwhite {
+    background-color: floralwhite;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.forestgreen {
+    background-color: forestgreen;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.gainsboro {
+    background-color: gainsboro;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.ghostwhite {
+    background-color: ghostwhite;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.gold {
+    background-color: gold;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.goldenrod {
+    background-color: goldenrod;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.greenyellow {
+    background-color: greenyellow;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.honeydew {
+    background-color: honeydew;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.hotpink {
+    background-color: hotpink;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.indianred {
+    background-color: indianred;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.indigo {
+    background-color: indigo;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.ivory {
+    background-color: ivory;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.khaki {
+    background-color: khaki;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.lavender {
+    background-color: lavender;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.lavenderblush {
+    background-color: lavenderblush;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.lawngreen {
+    background-color: lawngreen;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.lemonchiffon {
+    background-color: lemonchiffon;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.lightblue {
+    background-color: lightblue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.lightcoral {
+    background-color: lightcoral;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.lightcyan {
+    background-color: lightcyan;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.lightgoldenrodyellow {
+    background-color: lightgoldenrodyellow;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.lightgray {
+    background-color: lightgray;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.lightgreen {
+    background-color: lightgreen;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.lightpink {
+    background-color: lightpink;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.lightsalmon {
+    background-color: lightsalmon;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.lightseagreen {
+    background-color: lightseagreen;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.lightskyblue {
+    background-color: lightskyblue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.lightslategray {
+    background-color: lightslategray;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.lightsteelblue {
+    background-color: lightsteelblue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.lightyellow {
+    background-color: lightyellow;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.limegreen {
+    background-color: limegreen;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.linen {
+    background-color: linen;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.magenta {
+    background-color: magenta;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.mediumaquamarine {
+    background-color: mediumaquamarine;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.mediumblue {
+    background-color: mediumblue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.mediumorchid {
+    background-color: mediumorchid;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.mediumpurple {
+    background-color: mediumpurple;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.mediumseagreen {
+    background-color: mediumseagreen;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.mediumslateblue {
+    background-color: mediumslateblue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.mediumspringgreen {
+    background-color: mediumspringgreen;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.mediumturquoise {
+    background-color: mediumturquoise;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.mediumvioletred {
+    background-color: mediumvioletred;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.midnightblue {
+    background-color: midnightblue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.mintcream {
+    background-color: mintcream;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.mistyrose {
+    background-color: mistyrose;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.moccasin {
+    background-color: moccasin;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.navajowhite {
+    background-color: navajowhite;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.oldlace {
+    background-color: oldlace;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.olivedrab {
+    background-color: olivedrab;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.orangered {
+    background-color: orangered;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.orchid {
+    background-color: orchid;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.palegoldenrod {
+    background-color: palegoldenrod;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.palegreen {
+    background-color: palegreen;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.paleturquoise {
+    background-color: paleturquoise;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.palevioletred {
+    background-color: palevioletred;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.papayawhip {
+    background-color: papayawhip;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.peachpuff {
+    background-color: peachpuff;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.peru {
+    background-color: peru;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.pink {
+    background-color: pink;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.plum {
+    background-color: plum;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.powderblue {
+    background-color: powderblue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.rosybrown {
+    background-color: rosybrown;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.royalblue {
+    background-color: royalblue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.saddlebrown {
+    background-color: saddlebrown;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.salmon {
+    background-color: salmon;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.sandybrown {
+    background-color: sandybrown;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.seagreen {
+    background-color: seagreen;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.seashell {
+    background-color: seashell;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.sienna {
+    background-color: sienna;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.skyblue {
+    background-color: skyblue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.slateblue {
+    background-color: slateblue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.slategray {
+    background-color: slategray;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.snow {
+    background-color: snow;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.springgreen {
+    background-color: springgreen;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.steelblue {
+    background-color: steelblue;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.tan {
+    background-color: tan;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.thistle {
+    background-color: thistle;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.tomato {
+    background-color: tomato;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.transparent {
+    background-color: transparent;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.turquoise {
+    background-color: turquoise;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.violet {
+    background-color: violet;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.wheat {
+    background-color: wheat;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.whitesmoke {
+    background-color: whitesmoke;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.yellowgreen {
+    background-color: yellowgreen;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.rebeccapurple {
+    background-color: rebeccapurple;
+    font-size: 40px;
+    padding: 15px;
+    text-align: center;
+}

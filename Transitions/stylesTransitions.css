@@ -1,0 +1,575 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-family: lucida handwriting, cursive;
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    font-family: lucida handwriting, cursive;
+}
+
+.one {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    margin-left: 200px;
+    transition-property: width;
+    transition-duration: 2s;
+}
+
+.one:hover {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: yellow;
+    width: 1000px;
+    height: 200px;
+    margin-left: 200px;
+    transition-property: width;
+    transition-duration: 2s;
+}
+
+.two {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 300px;
+    height: 200px;
+    margin-left: 200px;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+}
+
+.two:hover {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: purple;
+    color: yellow;
+    width: 1000px;
+    height: 200px;
+    margin-left: 200px;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+}
+
+.three {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 300px;
+    height: 200px;
+    margin-left: 200px;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: ease;
+}
+
+.three:hover {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: crimson;
+    color: yellow;
+    width: 1000px;
+    height: 200px;
+    margin-left: 200px;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: ease;
+}
+
+.four {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 300px;
+    height: 200px;
+    margin-left: 200px;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+}
+
+.four:hover {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: lime;
+    color: yellow;
+    width: 1000px;
+    height: 200px;
+    margin-left: 200px;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+}
+
+.five {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 300px;
+    height: 200px;
+    margin-left: 200px;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: ease-out;
+}
+
+.five:hover {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: magenta;
+    color: yellow;
+    width: 1000px;
+    height: 200px;
+    margin-left: 200px;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: ease-out;
+}
+
+.six {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 300px;
+    height: 200px;
+    margin-left: 200px;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: ease-in-out;
+}
+
+.six:hover {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: cyan;
+    color: yellow;
+    width: 1000px;
+    height: 200px;
+    margin-left: 200px;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: ease-in-out;
+}
+
+.seven {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    margin-left: 200px;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-delay: 1s;
+}
+
+.seven:hover {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: indigo;
+    width: 1000px;
+    height: 200px;
+    margin-left: 200px;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-delay: 1s;
+}
+
+.eight {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    margin-left: 200px;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-delay: 3s;
+}
+
+.eight:hover {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: orangered;
+    width: 1000px;
+    height: 200px;
+    margin-left: 200px;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-delay: 3s;
+}
+
+.nine {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    margin-left: 200px;
+    transition: width 2s linear 1s;
+}
+
+.nine:hover {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: darkorchid;
+    width: 1000px;
+    height: 200px;
+    margin-left: 200px;
+    transition: width 2s linear 1s;
+}
+
+.ten {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    border-radius: 30%;
+    background-color: navy;
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    transition: width 2s, height 2s, transform 2s;
+}
+
+.ten:hover {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    border-radius: 30%;
+    background-color: navy;
+    width: 300px;
+    height: 300px;
+    margin-left: 200px;
+    transform: rotate(180deg);
+}
+
+.eleven {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-property: height;
+    transition-duration: 2s;
+}
+
+.eleven:hover {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: purple;
+    width: 300px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-property: height;
+    transition-duration: 2s;
+}
+
+.twelve {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-property: height;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+}
+
+.twelve:hover {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: yellow;
+    width: 300px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-property: height;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+}
+
+.thirteen {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-property: height;
+    transition-duration: 2s;
+    transition-timing-function: ease;
+}
+
+.thirteen:hover {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: crimson;
+    width: 300px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-property: height;
+    transition-duration: 2s;
+    transition-timing-function: ease;
+}
+
+.fourteen {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-property: height;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+}
+
+.fourteen:hover {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: lime;
+    width: 300px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-property: height;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+}
+
+.fifteen {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-property: height;
+    transition-duration: 2s;
+    transition-timing-function: ease-out;
+}
+
+.fifteen:hover {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: magenta;
+    width: 300px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-property: height;
+    transition-duration: 2s;
+    transition-timing-function: ease-out;
+}
+
+.sixteen {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-property: height;
+    transition-duration: 2s;
+    transition-timing-function: ease-in-out;
+}
+
+.sixteen:hover {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: cyan;
+    width: 300px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-property: height;
+    transition-duration: 2s;
+    transition-timing-function: ease-in-out;
+}
+
+.seventeen {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-property: height;
+    transition-duration: 2s;
+    transition-delay: 1s;
+}
+
+.seventeen:hover {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: indigo;
+    width: 300px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-property: height;
+    transition-duration: 2s;
+    transition-delay: 1s;
+}
+
+.eighteen {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-property: height;
+    transition-duration: 2s;
+    transition-delay: 3s;
+}
+
+.eighteen:hover {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: orangered;
+    width: 300px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    transition-property: height;
+    transition-duration: 2s;
+    transition-delay: 3s;
+}
+
+.nineteen {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    transition: height 2s linear 1s;
+}
+
+.nineteen:hover {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: darkorchid;
+    width: 300px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    transition: height 2s linear 1s;
+}
+
+.twenty {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    border-radius: 30%;
+    background-color: navy;
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    transition: width 2s, height 2s, transform 2s;
+}
+
+.twenty:hover {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    border-radius: 30%;
+    background-color: navy;
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: rotate(-180deg);
+}

@@ -1,0 +1,326 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-family: lucida handwriting, cursive;
+}
+
+.normal {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.translate {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translate(100px, 50px);
+}
+
+.rotateplus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: rotate(50deg);
+}
+
+.rotateminus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: rotate(-70deg);
+}
+
+.scaleplus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: scale(2, 2);
+}
+
+.scaleminus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: scale(0.5, 0.7);
+}
+
+.scalexplus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: scaleX(3);
+}
+
+.scalexminus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: scaleX(0.3);
+}
+
+.scaleyplus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: scaleY(3);
+}
+
+.scaleyminus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: scaleY(0.3);
+}
+
+.skewx {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: skewX(30deg);
+}
+
+.skewy {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: skewY(30deg);
+}
+
+.skew {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: skew(50deg, 10deg);
+}
+
+.matrix {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: matrix(2, 0.3, 0.8, 2, 40, 80);
+}
+
+.twod {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.twod:hover {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: rotate(20deg);
+}
+
+.rotatex {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: rotateX(130deg);
+}
+
+.rotatey {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: rotateY(130deg);
+}
+
+.rotatez {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 200px;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: rotateZ(130deg);
+}

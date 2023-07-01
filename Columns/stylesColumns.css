@@ -1,0 +1,33 @@
+h1 {
+	text-align: center;
+	font-size: 70px;
+	font-family: lucida handwriting, cursive;
+}
+
+h2 {
+	text-align: center;
+	font-size: 50px;
+	font-family: lucida handwriting, cursive;
+}
+
+.columnone {
+	text-align: center;
+	font-size: 20px;
+	font-style: italic;
+	column-count: 3;
+	column-gap: 30px;
+	column-rule-style: solid;
+	column-rule-width: thick;
+	column-rule-color: black;
+}
+
+.columntwo {
+	text-align: center;
+	font-size: 20px;
+	font-style: italic;
+	column-gap: 30px;
+	column-width: 200px;
+	column-rule-style: double;
+	column-rule-width: 10px;
+	column-rule-color: navy;
+}

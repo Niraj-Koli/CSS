@@ -1,0 +1,173 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-family: lucida handwriting, cursive;
+}
+
+.alpha {
+    text-align: center;
+    font-size: 50px;
+}
+
+.one {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-size: 50px;
+}
+
+.beta {
+    text-align: center;
+    font-size: 50px;
+}
+
+.two {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-size: 50px;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    border-radius: 100px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.gamma {
+    text-align: center;
+    font-size: 50px;
+}
+
+.three {
+    text-align: center;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 10px;
+}
+
+.three:visited {
+    text-align: center;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 10px;
+}
+
+.three:hover {
+    text-align: center;
+    text-decoration: none;
+    background-color: navy;
+    color: yellow;
+    font-size: 50px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 10px;
+}
+
+.three:active {
+    text-align: center;
+    text-decoration: none;
+    background-color: crimson;
+    color: yellow;
+    font-size: 50px;
+    font-family: lucida handwriting, cursive;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 10px;
+}
+
+.delta {
+    text-align: center;
+    font-size: 50px;
+    height: 50px;
+}
+
+.four {
+    text-align: center;
+    text-decoration: none;
+    background-color: yellow;
+    color: black;
+    font-size: 50px;
+    font-family: arial, sans-serif;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+.four:visited {
+    text-align: center;
+    text-decoration: none;
+    background-color: yellow;
+    color: black;
+    font-size: 50px;
+    font-family: arial, sans-serif;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+.four:hover {
+    text-align: center;
+    text-decoration: none;
+    background-color: black;
+    color: yellow;
+    font-size: 50px;
+    font-family: arial, sans-serif;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    transition-property: background-color;
+    transition-duration: 3s;
+}

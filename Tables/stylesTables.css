@@ -1,0 +1,202 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-family: lucida handwriting, cursive;
+}
+
+.t1 {
+    border-style: double;
+    border-width: 10px;
+    border-color: black;
+    border-radius: 5px;
+    width: 100%;
+    height: 100%;
+}
+
+.anime {
+    color: black;
+    font-family: courier new, monospace;
+    font-size: 50px;
+}
+
+.deathnote {
+    color: red;
+    text-align: center;
+    font-family: garamond, serif;
+    font-size: 35px;
+    background: black;
+}
+
+.tokyo {
+    color: black;
+    text-align: center;
+    font-family: brush script mt, cursive;
+    font-size: 35px;
+    background: white;
+}
+
+.dragon {
+    color: yellow;
+    text-align: center;
+    font-family: lucida handwriting, cursive;
+    font-size: 35px;
+    background: orangered;
+}
+
+.titan {
+    color: lawngreen;
+    text-align: center;
+    font-family: papyrus, fantasy;
+    font-size: 35px;
+    background: navy;
+}
+
+.naruto {
+    color: orangered;
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 35px;
+    background: yellow;
+}
+
+.punch {
+    color: magenta;
+    text-align: center;
+    font-family: lucida console, monospace;
+    font-size: 35px;
+    background: lawngreen;
+}
+
+.alchemist {
+    color: yellow;
+    text-align: center;
+    font-family: times new roman, serif;
+    font-size: 35px;
+    background: red;
+}
+
+.death {
+    color: red;
+    text-align: center;
+    font-size: 25px;
+    font-family: garamond, serif;
+    background: black;
+    padding-right: 40px;
+}
+
+.death:hover {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    font-family: garamond, serif;
+    background: red;
+    padding-right: 40px;
+}
+
+.ghoul {
+    color: black;
+    text-align: center;
+    font-family: brush script mt, cursive;
+    font-size: 25px;
+    background: white;
+    padding-right: 40px;
+}
+
+.ghoul:hover {
+    color: white;
+    text-align: center;
+    font-family: brush script mt, cursive;
+    font-size: 25px;
+    background: black;
+    padding-right: 40px;
+}
+
+.ball {
+    color: yellow;
+    text-align: center;
+    font-family: lucida handwriting, cursive;
+    font-size: 25px;
+    background: orangered;
+    padding-right: 40px;
+}
+
+.ball:hover {
+    color: orangered;
+    text-align: center;
+    font-family: lucida handwriting, cursive;
+    font-size: 25px;
+    background: yellow;
+    padding-right: 40px;
+}
+
+.attack {
+    color: lawngreen;
+    text-align: center;
+    font-family: papyrus, fantasy;
+    font-size: 25px;
+    background: navy;
+    padding-right: 40px;
+}
+
+.attack:hover {
+    color: navy;
+    text-align: center;
+    font-family: papyrus, fantasy;
+    font-size: 25px;
+    background: lawngreen;
+    padding-right: 40px;
+}
+
+.ninja {
+    color: orangered;
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 25px;
+    background: yellow;
+    padding-right: 40px;
+}
+
+.ninja:hover {
+    color: yellow;
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 25px;
+    background: orangered;
+    padding-right: 40px;
+}
+
+.saitama {
+    color: magenta;
+    text-align: center;
+    font-family: lucida console, monospace;
+    font-size: 25px;
+    background: lawngreen;
+    padding-right: 40px;
+}
+
+.saitama:hover {
+    color: lawngreen;
+    text-align: center;
+    font-family: lucida console, monospace;
+    font-size: 25px;
+    background: magenta;
+    padding-right: 40px;
+}
+
+.fullmetal {
+    color: yellow;
+    text-align: center;
+    font-family: times new roman, serif;
+    font-size: 25px;
+    background: red;
+    padding-right: 40px;
+}
+
+.fullmetal:hover {
+    color: red;
+    text-align: center;
+    font-family: times new roman, serif;
+    font-size: 25px;
+    background: yellow;
+    padding-right: 40px;
+}

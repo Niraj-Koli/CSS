@@ -1,0 +1,439 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-family: lucida handwriting, cursive;
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    font-family: lucida handwriting, cursive;
+}
+
+.alpha {
+    border: thin solid navy;
+    background-color: navy;
+    width: 500px;
+    height: 300px;
+    margin: 70px auto;
+    animation-name: first;
+    animation-duration: 5s;
+}
+
+.beta {
+    border: thin solid navy;
+    background-color: navy;
+    width: 500px;
+    height: 300px;
+    margin: 70px auto;
+    animation-name: first;
+    animation-duration: 5s;
+    animation-iteration-count: 3;
+}
+
+.gamma {
+    border: thin solid navy;
+    background-color: navy;
+    width: 500px;
+    height: 300px;
+    margin: 70px auto;
+    animation-name: first;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+.delta {
+    border: thin solid navy;
+    background-color: navy;
+    width: 500px;
+    height: 300px;
+    margin: 70px auto;
+    animation-name: first;
+    animation-duration: 5s;
+    animation-delay: 2s;
+    animation-iteration-count: 2;
+}
+
+.epsilon {
+    border: thin solid navy;
+    background-color: navy;
+    width: 500px;
+    height: 300px;
+    margin: 70px auto;
+    animation-name: first;
+    animation-duration: 5s;
+    animation-delay: -2s;
+    animation-iteration-count: 3;
+}
+
+@keyframes first {
+    from {
+        background-color: navy;
+    }
+
+    to {
+        background-color: yellow;
+    }
+}
+
+.zeta {
+    border: thin solid navy;
+    background-color: navy;
+    width: 500px;
+    height: 300px;
+    margin: 70px auto;
+    animation-name: second;
+    animation-duration: 5s;
+}
+
+.eta {
+    border: thin solid navy;
+    background-color: navy;
+    width: 500px;
+    height: 300px;
+    margin: 70px auto;
+    animation-name: second;
+    animation-duration: 5s;
+    animation-iteration-count: 3;
+}
+
+.theta {
+    border: thin solid navy;
+    background-color: navy;
+    width: 500px;
+    height: 300px;
+    margin: 70px auto;
+    animation-name: second;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+.iota {
+    border: thin solid navy;
+    background-color: navy;
+    width: 500px;
+    height: 300px;
+    margin: 70px auto;
+    animation-name: second;
+    animation-duration: 5s;
+    animation-delay: 2s;
+    animation-iteration-count: 2;
+}
+
+.kappa {
+    border: thin solid navy;
+    background-color: navy;
+    width: 500px;
+    height: 300px;
+    margin: 70px auto;
+    animation-name: second;
+    animation-duration: 5s;
+    animation-delay: -2s;
+    animation-iteration-count: 3;
+}
+
+@keyframes second {
+    0% {
+        background-color: navy;
+    }
+
+    25% {
+        background-color: yellow;
+    }
+
+    50% {
+        background-color: lime;
+    }
+
+    75% {
+        background-color: cyan;
+    }
+
+    100% {
+        background-color: crimson;
+    }
+}
+
+.lambda {
+    border: thin solid navy;
+    background-color: navy;
+    margin: 70px 0px 70px 200px;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    animation-name: third;
+    animation-duration: 5s;
+}
+
+.mu {
+    border: thin solid navy;
+    background-color: navy;
+    margin: 70px 0px 70px 200px;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    animation-name: third;
+    animation-duration: 5s;
+    animation-iteration-count: 3;
+}
+
+.nu {
+    border: thin solid navy;
+    background-color: navy;
+    margin: 70px 0px 70px 200px;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    animation-name: third;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+.xi {
+    border: thin solid navy;
+    background-color: navy;
+    margin: 70px 0px 70px 200px;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    animation-name: third;
+    animation-duration: 5s;
+    animation-delay: 2s;
+    animation-iteration-count: 2;
+}
+
+.omicron {
+    border: thin solid navy;
+    background-color: navy;
+    margin: 70px 0px 70px 200px;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    animation-name: third;
+    animation-duration: 5s;
+    animation-delay: -2s;
+    animation-iteration-count: 3;
+}
+
+.pi {
+    border: thin solid navy;
+    background-color: navy;
+    margin: 70px 0px 70px 200px;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    animation-name: third;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+}
+
+.rho {
+    border: thin solid navy;
+    background-color: navy;
+    margin: 70px 0px 70px 200px;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    animation-name: third;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.sigma {
+    border: thin solid navy;
+    background-color: navy;
+    margin: 70px 0px 70px 200px;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    animation-name: third;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+}
+
+.tau {
+    border: thin solid navy;
+    background-color: navy;
+    margin: 70px 0px 70px 200px;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    animation-name: third;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse-alternate;
+}
+
+@keyframes third {
+    0% {
+        background-color: navy;
+        margin-left: 200px;
+        margin-top: 70px;
+    }
+
+    25% {
+        background-color: yellow;
+        margin-left: 1000px;
+        margin-top: 70px;
+    }
+
+    50% {
+        background-color: lime;
+        margin-left: 1000px;
+        margin-top: 500px;
+    }
+
+    75% {
+        background-color: cyan;
+        margin-left: 200px;
+        margin-top: 500px;
+    }
+
+    100% {
+        background-color: crimson;
+        margin-left: 200px;
+        margin-top: 70px;
+    }
+}
+
+.upsilon {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border: thin solid navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 300px;
+    margin: 70px 0px 70px 200px;
+    animation-name: fourth;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.phi {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border: thin solid navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 300px;
+    margin: 70px 0px 70px 200px;
+    animation-name: fourth;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease;
+}
+
+.chi {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border: thin solid navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 300px;
+    margin: 70px 0px 70px 200px;
+    animation-name: fourth;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in;
+}
+
+.psi {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border: thin solid navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 300px;
+    margin: 70px 0px 70px 200px;
+    animation-name: fourth;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-out;
+}
+
+.omega {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    border: thin solid navy;
+    background-color: navy;
+    color: yellow;
+    width: 500px;
+    height: 300px;
+    margin: 70px 0px 70px 200px;
+    animation-name: fourth;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes fourth {
+    from {
+        margin-left: 200px;
+    }
+
+    to {
+        margin-left: 800px;
+    }
+}
+
+.pearl {
+    border-style: solid;
+    border-width: thin;
+    border-color: navy;
+    background-color: navy;
+    width: 300px;
+    height: 200px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 200px;
+    animation-name: fifth;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: linear;
+}
+
+@keyframes fifth {
+    0% {
+        background-color: navy;
+        margin-left: 200px;
+        margin-top: 70px;
+    }
+
+    25% {
+        background-color: yellow;
+        margin-left: 1000px;
+        margin-top: 70px;
+    }
+
+    50% {
+        background-color: lime;
+        margin-left: 1000px;
+        margin-top: 500px;
+    }
+
+    75% {
+        background-color: cyan;
+        margin-left: 200px;
+        margin-top: 500px;
+    }
+
+    100% {
+        background-color: crimson;
+        margin-left: 200px;
+        margin-top: 70px;
+    }
+}

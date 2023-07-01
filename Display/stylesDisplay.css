@@ -1,0 +1,258 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-family: lucida handwriting, cursive;
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    font-family: lucida handwriting, cursive;
+}
+
+div {
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: georgian, serif;
+    margin: 50px;
+}
+
+.navigationsbars {
+    background-color: navy;
+    text-align: center;
+    font-size: 30px;
+    font-family: verdana, sans-serif;
+    border: thin solid black;
+    list-style-type: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navigators {
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: verdana, sans-serif;
+    border: thin solid black;
+    color: navy;
+    background-color: lawngreen;
+    padding: 20px;
+    margin: 0px 50px;
+    text-decoration: none;
+}
+
+.navigators:visited {
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: verdana, sans-serif;
+    border: thin solid black;
+    color: navy;
+    background-color: lawngreen;
+    padding: 20px;
+    margin: 0px 50px;
+    text-decoration: none;
+}
+
+.navigators:hover {
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: verdana, sans-serif;
+    border: thin solid black;
+    color: black;
+    background-color: cyan;
+    padding: 20px;
+    margin: 0px 50px;
+    text-decoration: none;
+}
+
+.navigators:active {
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: verdana, sans-serif;
+    border: thin solid black;
+    color: yellow;
+    background-color: purple;
+    padding: 20px;
+    margin: 0px 50px;
+    text-decoration: none;
+}
+
+.inline {
+    font-size: 30px;
+    font-family: georgian, serif;
+    font-style: italic;
+    border: thin solid black;
+    background-color: blue;
+    color: lawngreen;
+    padding: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+    width: 100px;
+    height: 100px;
+    display: inline;
+}
+
+.inline:hover {
+    font-size: 30px;
+    font-family: georgian, serif;
+    font-style: italic;
+    border: thin solid black;
+    background-color: lawngreen;
+    color: blue;
+    padding: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+    width: 100px;
+    height: 100px;
+    display: inline;
+}
+
+.inlineblock {
+    font-size: 30px;
+    font-family: georgian, serif;
+    font-style: italic;
+    border: thin solid black;
+    background-color: black;
+    color: red;
+    padding: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+    width: 200px;
+    height: 150px;
+    padding-top: 75px;
+    display: inline-block;
+}
+
+.inlineblock:hover {
+    font-size: 30px;
+    font-family: georgian, serif;
+    font-style: italic;
+    border: thin solid black;
+    background-color: red;
+    color: black;
+    padding: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+    width: 200px;
+    height: 150px;
+    padding-top: 75px;
+    display: inline-block;
+}
+
+.block {
+    font-size: 30px;
+    font-family: georgian, serif;
+    font-style: italic;
+    border: thin solid black;
+    background-color: purple;
+    color: yellow;
+    padding: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+    width: 200px;
+    height: 150px;
+    padding-top: 75px;
+    display: block;
+}
+
+.block:hover {
+    font-size: 30px;
+    font-family: georgian, serif;
+    font-style: italic;
+    border: thin solid black;
+    background-color: yellow;
+    color: purple;
+    padding: 2px;
+    padding-left: 4px;
+    padding-right: 4px;
+    width: 200px;
+    height: 150px;
+    padding-top: 75px;
+    display: block;
+}
+
+.barsinlineblock {
+    background-color: aqua;
+    text-align: center;
+    font-size: 30px;
+    font-family: verdana, sans-serif;
+    border: thin solid black;
+    border-radius: 50px;
+    list-style-type: none;
+    padding: 0;
+    margin: 20px;
+}
+
+.navigationsinlineblock {
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: verdana, sans-serif;
+    border: thin solid black;
+    color: purple;
+    background-color: yellow;
+    padding: 30px;
+    margin: 20px;
+}
+
+.navigationsinlineblock:hover {
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: verdana, sans-serif;
+    border: thin solid black;
+    color: yellow;
+    background-color: purple;
+    padding: 30px;
+    margin: 20px;
+}
+
+.barsblock {
+    background-color: aqua;
+    text-align: center;
+    font-size: 30px;
+    font-family: verdana, sans-serif;
+    border: thin solid black;
+    border-radius: 50px;
+    list-style-type: none;
+    padding: 0;
+    margin: 20px;
+}
+
+.navigationsblock {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: verdana, sans-serif;
+    border: thin solid black;
+    color: purple;
+    background-color: yellow;
+    padding: 30px;
+    margin: 20px;
+}
+
+.navigationsblock:hover {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: verdana, sans-serif;
+    border: thin solid black;
+    color: yellow;
+    background-color: purple;
+    padding: 30px;
+    margin: 20px;
+}

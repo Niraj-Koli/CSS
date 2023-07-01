@@ -1,0 +1,302 @@
+.tooltip {
+    text-align: center;
+    font-size: 70px;
+    font-family: lucida handwriting, cursive;
+    margin: 70px;
+}
+
+.anime {
+    text-align: center;
+    font-size: 50px;
+    font-family: brush script mt, cursive;
+    padding: 11px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    visibility: hidden;
+    position: absolute;
+    width: 120px;
+    z-index: 1;
+    right: 45%;
+    margin-top: 90px;
+    margin-right: 10px;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip:hover .anime {
+    visibility: visible;
+    opacity: 1;
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    font-family: lucida handwriting, cursive;
+}
+
+.margin {
+    margin: 70px;
+}
+
+.dragon {
+    text-align: center;
+    font-size: 40px;
+    font-family: lucida handwriting, cursive;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ball {
+    text-align: center;
+    font-size: 30px;
+    font-family: brush script mt, cursive;
+    padding: 11px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    visibility: hidden;
+    position: absolute;
+    width: 120px;
+    left: 50%;
+    margin-top: -60px;
+    margin-left: -60px;
+    z-index: 1;
+}
+
+.dragon:hover .ball {
+    visibility: visible;
+}
+
+.tokyo {
+    text-align: center;
+    font-size: 40px;
+    font-family: lucida handwriting, cursive;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ghoul {
+    text-align: center;
+    font-size: 30px;
+    font-family: brush script mt, cursive;
+    padding: 11px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    visibility: hidden;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: -5px;
+    z-index: 1;
+}
+
+.tokyo:hover .ghoul {
+    visibility: visible;
+}
+
+.death {
+    text-align: center;
+    font-size: 40px;
+    font-family: lucida handwriting, cursive;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.note {
+    text-align: center;
+    font-size: 30px;
+    font-family: brush script mt, cursive;
+    padding: 11px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    visibility: hidden;
+    position: absolute;
+    z-index: 1;
+    right: 55%;
+    margin-right: 50px;
+}
+
+.death:hover .note {
+    visibility: visible;
+}
+
+.attack {
+    text-align: center;
+    font-size: 40px;
+    font-family: lucida handwriting, cursive;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titan {
+    text-align: center;
+    font-size: 30px;
+    font-family: brush script mt, cursive;
+    padding: 11px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    visibility: hidden;
+    position: absolute;
+    z-index: 1;
+    right: 45%;
+    margin-top: 60px;
+    margin-right: -10px;
+}
+
+.attack:hover .titan {
+    visibility: visible;
+}
+
+.jujutsu {
+    text-align: center;
+    font-size: 40px;
+    font-family: lucida handwriting, cursive;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.kaisen {
+    text-align: center;
+    font-size: 30px;
+    font-family: brush script mt, cursive;
+    padding: 11px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    visibility: hidden;
+    position: absolute;
+    left: 50%;
+    margin-top: -60px;
+    margin-left: -75px;
+    z-index: 1;
+}
+
+.jujutsu .kaisen::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 45%;
+    margin-left: -5px;
+    border-width: 13px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
+}
+
+.jujutsu:hover .kaisen {
+    visibility: visible;
+}
+
+.one {
+    text-align: center;
+    font-size: 40px;
+    font-family: lucida handwriting, cursive;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.piece {
+    text-align: center;
+    font-size: 30px;
+    font-family: brush script mt, cursive;
+    padding: 11px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    visibility: hidden;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: -5px;
+}
+
+.one .piece::after {
+    content: "";
+    position: absolute;
+    top: 22%;
+    right: 97%;
+    border-width: 17px;
+    border-style: solid;
+    border-color: transparent black transparent transparent;
+}
+
+.one:hover .piece {
+    visibility: visible;
+}
+
+.onepunchman {
+    text-align: center;
+    font-size: 40px;
+    font-family: lucida handwriting, cursive;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.saitama {
+    text-align: center;
+    font-size: 30px;
+    font-family: brush script mt, cursive;
+    padding: 11px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    visibility: hidden;
+    position: absolute;
+    z-index: 1;
+    right: 59%;
+    margin-right: 55px;
+}
+
+.onepunchman .saitama::after {
+    content: "";
+    position: absolute;
+    top: 23%;
+    left: 95%;
+    border-width: 15px;
+    border-style: solid;
+    border-color: transparent transparent transparent black;
+}
+
+.onepunchman:hover .saitama {
+    visibility: visible;
+}
+
+.fullmetal {
+    text-align: center;
+    font-size: 40px;
+    font-family: lucida handwriting, cursive;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.alchemist {
+    text-align: center;
+    font-size: 30px;
+    font-family: brush script mt, cursive;
+    padding: 11px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    visibility: hidden;
+    position: absolute;
+    z-index: 1;
+    right: 45%;
+    margin-top: 60px;
+    margin-right: -10px;
+}
+
+.fullmetal .alchemist::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 46%;
+    margin-left: -5px;
+    border-width: 13px;
+    border-style: solid;
+    border-color: transparent transparent black transparent;
+}
+
+.fullmetal:hover .alchemist {
+    visibility: visible;
+}

@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="stylesForms.css" />
+        <title>Forms</title>
+    </head>
+
+    <body>
+        <hr />
+
+        <h1>Forms</h1>
+
+        <hr />
+
+        <form name="Hustle">
+            <table border="1">
+                <tr>
+                    <th class="personal" colspan="2">Personal Information</th>
+                </tr>
+
+                <tr>
+                    <th class="name">Name</th>
+                    <td>
+                        <input
+                            type="text"
+                            name="name"
+                            maxlength="30"
+                            size="70"
+                            required />
+                    </td>
+                    <!-- autocomplete="on" or "off"-->
+                </tr>
+
+                <tr>
+                    <th class="email">Email Address</th>
+                    <td>
+                        <input
+                            type="email"
+                            name="email"
+                            maxlength="40"
+                            size="70"
+                            required />
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="password">Password</th>
+                    <td>
+                        <input type="password" name="pass" size="50" required />
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="gender">Gender</th>
+                    <td>
+                        <div class="radio">
+                            <input
+                                type="radio"
+                                name="gender"
+                                value="male"
+                                required />Male<br />
+                            <input
+                                type="radio"
+                                name="gender"
+                                value="female"
+                                required />Female<br />
+                            <input
+                                type="radio"
+                                name="gender"
+                                value="other"
+                                required />Other<br />
+                        </div>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="gadgets">Hobbies</th>
+                    <td>
+                        <div class="checkbox">
+                            <input
+                                type="checkbox"
+                                name="check"
+                                value="Earphones" />Writing<br />
+                            <input
+                                type="checkbox"
+                                name="check"
+                                value="Glasses" />Reading<br />
+                            <input
+                                type="checkbox"
+                                name="check"
+                                value="Watch" />Sports<br />
+                            <input
+                                type="checkbox"
+                                name="check"
+                                value="Kada" />Dancing<br />
+                            <input
+                                type="checkbox"
+                                name="check"
+                                value="Phone" />Singing<br />
+                        </div>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="wingmans">Status</th>
+                    <td>
+                        <input list="status" />
+                        <datalist id="status">
+                            <option value="Single" />
+                            <option value="Married" />
+                            <option value="Separated" />
+                            <option value="Divorced" />
+                            <option value="Widowed" />
+                        </datalist>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="ideas">Socials</th>
+                    <td>
+                        <select size="4" name="select" multiple>
+                            <option value="Facebook">Facebook</option>
+                            <option value="Instagram">Instagram</option>
+                            <option value="Twitter">Twitter</option>
+                            <option value="Whatsapp">Whatsapp</option>
+                        </select>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="color">Color</th>
+                    <td>
+                        <input
+                            type="color"
+                            name="color"
+                            value="color"
+                            required />
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="date">Date</th>
+                    <td>
+                        <input type="date" name="date" value="date" required />
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="phone">Phone Number</th>
+                    <td>
+                        <input
+                            type="tel"
+                            name="tel"
+                            size="70"
+                            pattern="[0-9]{10}"
+                            required />
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="time">Time</th>
+                    <td>
+                        <input type="time" name="time" value="time" required />
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="week">Week</th>
+                    <td><input type="week" name="week" required /></td>
+                </tr>
+
+                <tr>
+                    <th class="file">File</th>
+                    <td><input type="file" name="file" required /></td>
+                </tr>
+
+                <tr>
+                    <th class="month">Month</th>
+                    <td><input type="month" name="month" required /></td>
+                </tr>
+
+                <tr>
+                    <th class="range">Range</th>
+                    <td><input type="range" name="range" required /></td>
+                </tr>
+
+                <tr>
+                    <th class="image">Image</th>
+                    <td>
+                        <input
+                            type="image"
+                            name="image"
+                            src="GojoAlpha.jpg"
+                            border="3"
+                            alt="Nosaka"
+                            height="250"
+                            width="250" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <th class="textarea">Textarea</th>
+                    <td><textarea name="textarea" required></textarea></td>
+                </tr>
+
+                <tr>
+                    <th colspan="2">
+                        <input type="submit" name="submit" value="Submit" />
+                        <input type="reset" name="reset" value="Reset" />
+                        <input type="button" name="button" value="Click" />
+                    </th>
+                </tr>
+            </table>
+        </form>
+
+        <hr />
+    </body>
+</html>

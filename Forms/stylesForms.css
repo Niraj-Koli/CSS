@@ -1,0 +1,675 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-family: lucida handwriting, cursive;
+}
+
+table {
+    border-style: double;
+    border-width: 10px;
+    border-color: black;
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+}
+
+.personal {
+    text-align: center;
+    font-size: 50px;
+    font-family: lucida handwriting, cursive;
+    padding: 10px;
+}
+
+.name {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+input[type="text"] {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+input[type="text"]:focus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+.email {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+input[type="email"] {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+input[type="email"]:focus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+.password {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+input[type="password"] {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+input[type="password"]:focus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+.gender {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.radio {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    color: black;
+}
+
+.gadgets {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.checkbox {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    color: black;
+}
+
+.wingmans {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+input[list] {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    color: black;
+}
+
+input[list]:focus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    color: black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+.ideas {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+select {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    margin-left: 420px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: black;
+    overflow: scroll;
+}
+
+option {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    padding: 20px;
+    color: black;
+}
+
+.color {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+input[type="color"] {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 250px;
+    height: 200px;
+    margin-left: 380px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+input[type="color"]:focus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 250px;
+    height: 200px;
+    margin-left: 380px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+.date {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+input[type="date"] {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+input[type="date"]:focus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+.phone {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+input[type="tel"] {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+input[type="tel"]:focus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+.time {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+input[type="time"] {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+input[type="time"]:focus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+.week {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+input[type="week"] {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+input[type="week"]:focus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+.file {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+input[type="file"] {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+input[type="file"]:focus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+.month {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+input[type="month"] {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+input[type="month"]:focus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+.range {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+input[type="range"] {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+input[type="range"]:focus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+.image {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+input[type="image"] {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    width: 800px;
+    height: 500px;
+    margin: 100px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+.textarea {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+textarea {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    margin: 50px;
+    width: 930px;
+    height: 300px;
+}
+
+textarea:focus {
+    text-align: center;
+    font-size: 35px;
+    font-family: lucida handwriting, cursive;
+    margin: 50px;
+    width: 930px;
+    height: 300px;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+input[type="submit"] {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    background-color: white;
+    margin: 50px;
+    padding: 20px;
+    color: black;
+}
+
+input[type="submit"]:focus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    background-color: white;
+    margin: 50px;
+    padding: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+input[type="submit"]:hover {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    background-color: black;
+    margin: 50px;
+    padding: 20px;
+    color: red;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+input[type="submit"]:active {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    background-color: black;
+    margin: 50px;
+    padding: 20px;
+    color: white;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+input[type="reset"] {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    background-color: white;
+    margin: 50px;
+    padding: 20px;
+    color: black;
+}
+
+input[type="reset"]:focus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    background-color: white;
+    margin: 50px;
+    padding: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+input[type="reset"]:hover {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    background-color: black;
+    margin: 50px;
+    padding: 20px;
+    color: red;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+input[type="reset"]:active {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    background-color: black;
+    margin: 50px;
+    padding: 20px;
+    color: white;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+input[type="button"] {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    background-color: white;
+    margin: 50px;
+    padding: 20px;
+    color: black;
+}
+
+input[type="button"]:focus {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    background-color: white;
+    margin: 50px;
+    padding: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+input[type="button"]:hover {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    background-color: black;
+    margin: 50px;
+    padding: 20px;
+    color: red;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+input[type="button"]:active {
+    text-align: center;
+    font-size: 30px;
+    font-family: lucida handwriting, cursive;
+    background-color: black;
+    margin: 50px;
+    padding: 20px;
+    color: white;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+::selection {
+    color: white;
+    background: black;
+}

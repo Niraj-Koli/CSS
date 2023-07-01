@@ -1,0 +1,286 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-family: lucida handwriting, cursive;
+}
+
+.one {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(orangered, yellow);
+}
+
+.two {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(purple, yellow);
+}
+
+.three {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(blue, lawngreen);
+}
+
+.four {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(black, red);
+}
+
+.five {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(white, black);
+}
+
+.six {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(red, yellow);
+}
+
+.seven {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(to right, silver, maroon);
+}
+
+.eight {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(to left, fuchsia, green);
+}
+
+.nine {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(to bottom right, lime, navy);
+}
+
+.ten {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(to bottom left, aquamarine, brown);
+}
+
+.eleven {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(to bottom, deeppink, deepskyblue);
+}
+
+.twelve {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(to top left, indigo, lightslategray);
+}
+
+.thirteen {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(to top right, crimson, aqua);
+}
+
+.fourteen {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(0deg, black, red);
+}
+
+.fifteen {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(90deg, magenta, royalblue);
+}
+
+.sixteen {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(180deg, midnightblue, mediumvioletred);
+}
+
+.seventeen {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(-90deg, crimson, purple);
+}
+
+.eighteen {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(red, blue, green);
+}
+
+.nineteen {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(
+        red,
+        orange,
+        yellow,
+        green,
+        blue,
+        indigo,
+        violet
+    );
+}
+
+.twenty {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(red 20%, blue 50%, green 80%);
+}
+
+.twentyone {
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(
+        to right,
+        red,
+        orange,
+        yellow,
+        green,
+        blue,
+        indigo,
+        violet
+    );
+}
+
+.twentytwo {
+    width: 100%;
+    height: 300px;
+    background-image: repeating-linear-gradient(
+        purple,
+        lawngreen 10%,
+        cyan 20%
+    );
+}
+
+.twentythree {
+    width: 100%;
+    height: 300px;
+    background-image: repeating-linear-gradient(
+        to bottom right,
+        purple,
+        lawngreen 10%,
+        cyan 20%
+    );
+}
+
+.twentyfour {
+    width: 100%;
+    height: 300px;
+    background-image: repeating-linear-gradient(
+        45deg,
+        purple,
+        lawngreen 10%,
+        cyan 20%
+    );
+}
+
+.twentyfive {
+    width: 100%;
+    height: 300px;
+    background-image: repeating-linear-gradient(
+        70deg,
+        purple,
+        lawngreen 10%,
+        cyan 20%
+    );
+}
+
+.twentysix {
+    width: 100%;
+    height: 300px;
+    background-image: repeating-linear-gradient(
+        90deg,
+        purple,
+        lawngreen 10%,
+        cyan 20%
+    );
+}
+
+.twentyseven {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 300px;
+    background-image: radial-gradient(red, yellow, green);
+}
+
+.twentyeight {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 300px;
+    background-image: radial-gradient(red 5%, yellow 20%, green 50%);
+}
+
+.twentynine {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 300px;
+    background-image: radial-gradient(circle, red, blue, lawngreen);
+}
+
+.thirty {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 300px;
+    background-image: radial-gradient(closest-side, red, yellow, black);
+}
+
+.thirtyone {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 300px;
+    background-image: radial-gradient(farthest-side, red, yellow, black);
+}
+
+.thirtytwo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 300px;
+    background-image: radial-gradient(closest-corner, red, yellow, black);
+}
+
+.thirtythree {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 300px;
+    background-image: radial-gradient(farthest-corner, red, yellow, black);
+}
+
+.thirtyfour {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 300px;
+    background-image: repeating-radial-gradient(
+        purple,
+        lawngreen 10%,
+        cyan 20%
+    );
+}
+
+.thirtyfive {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 300px;
+    background-image: repeating-radial-gradient(
+        red,
+        orange,
+        yellow,
+        green,
+        blue,
+        indigo,
+        violet
+    );
+}

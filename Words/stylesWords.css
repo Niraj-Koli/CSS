@@ -1,0 +1,143 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-family: lucida handwriting, cursive;
+}
+
+.clip {
+    text-align: center;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    border-style: double;
+    border-width: 10px;
+    border-color: black;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    text-overflow: clip;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.clip:hover {
+    text-align: center;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    border-style: double;
+    border-width: 10px;
+    border-color: black;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    text-overflow: clip;
+    overflow: visible;
+    white-space: nowrap;
+}
+
+.ellipsis {
+    text-align: center;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    border-style: double;
+    border-width: 10px;
+    border-color: black;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.ellipsis:hover {
+    text-align: center;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    border-style: double;
+    border-width: 10px;
+    border-color: black;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    text-overflow: ellipsis;
+    overflow: visible;
+    white-space: nowrap;
+}
+
+.breakword {
+    text-align: center;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    border-style: double;
+    border-width: 10px;
+    border-color: black;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    word-wrap: break-word;
+}
+
+.horizontal {
+    text-align: center;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    border-style: double;
+    border-width: 10px;
+    border-color: black;
+    padding: 30px;
+    writing-mode: horizontal-tb;
+}
+
+.vertical {
+    text-align: center;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    border-style: double;
+    border-width: 10px;
+    border-color: black;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    writing-mode: vertical-rl;
+}
+
+.horizontalvertical {
+    text-align: center;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    border-style: double;
+    border-width: 10px;
+    border-color: black;
+    padding: 30px;
+    writing-mode: horizontal-tb;
+}
+
+.verti {
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    writing-mode: vertical-rl;
+}
+
+.verticalhorizontal {
+    text-align: center;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    border-style: double;
+    border-width: 10px;
+    border-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    writing-mode: vertical-rl;
+}
+
+.horiz {
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    writing-mode: horizontal-tb;
+}

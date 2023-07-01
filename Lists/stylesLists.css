@@ -1,0 +1,202 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-family: lucida handwriting, cursive;
+}
+
+.A {
+    text-align: center;
+    font-size: 30px;
+    font-variant: small-caps;
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+.B {
+    text-align: center;
+    font-size: 30px;
+    font-variant: small-caps;
+    list-style-type: disc;
+    list-style-position: outside;
+}
+
+.C {
+    text-align: center;
+    font-size: 30px;
+    font-variant: small-caps;
+    list-style-type: square;
+    list-style-position: inside;
+    background: magenta;
+}
+
+.D {
+    text-align: center;
+    font-size: 30px;
+    font-variant: small-caps;
+    list-style-type: none;
+}
+
+.E {
+    text-align: center;
+    font-size: 30px;
+    list-style-type: decimal;
+    list-style-position: inside;
+    font-style: italic;
+}
+
+.F {
+    text-align: center;
+    font-size: 30px;
+    font-variant: small-caps;
+    list-style-type: georgian;
+    list-style-position: outside;
+    text-decoration: underline;
+    margin: 30px;
+}
+
+.G {
+    text-align: center;
+    font-size: 30px;
+    font-variant: small-caps;
+    list-style-type: armenian;
+    list-style-position: inside;
+    background: lawngreen;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    margin: 200px;
+}
+
+.H {
+    text-align: center;
+    font-size: 30px;
+    font-variant: small-caps;
+    list-style-type: cjk-ideographic;
+    list-style-position: outside;
+    margin: 300px;
+}
+
+.I {
+    text-align: center;
+    font-size: 30px;
+    font-variant: small-caps;
+    list-style-type: decimal-leading-zero;
+    list-style-position: inside;
+    border-style: double;
+    border-color: cyan;
+    border-radius: 50px;
+    border-width: 20px;
+    text-decoration: line-through;
+    padding: 50px;
+}
+
+.J {
+    text-align: center;
+    font-size: 30px;
+    font-variant: small-caps;
+    list-style-type: hebrew;
+    list-style-position: outside;
+}
+
+.K {
+    text-align: center;
+    font-size: 30px;
+    font-variant: small-caps;
+    list-style-type: hiragana;
+    list-style-position: inside;
+    border-style: solid;
+    border-color: deepskyblue;
+    border-width: 20px;
+    outline-style: solid;
+    outline-color: purple;
+    outline-width: 10px;
+    padding: 30px;
+    margin: 100px;
+}
+
+.L {
+    text-align: center;
+    font-size: 30px;
+    font-variant: small-caps;
+    list-style-type: hiragana-iroha;
+    list-style-position: outside;
+}
+
+.M {
+    text-align: center;
+    font-size: 30px;
+    font-variant: small-caps;
+    list-style-type: katakana;
+    list-style-position: inside;
+    border-style: outset;
+    border-width: 10px;
+    border-color: violet;
+    outline-style: inset;
+    outline-width: 20px;
+    outline-color: yellow;
+    margin: 50px;
+}
+
+.N {
+    text-align: center;
+    font-size: 30px;
+    font-variant: small-caps;
+    list-style-type: katakana-iroha;
+    list-style-position: outside;
+}
+
+.O {
+    text-align: center;
+    font-size: 30px;
+    font-variant: small-caps;
+    list-style-type: lower-alpha;
+    list-style-position: inside;
+    text-decoration: overline;
+    color: orangered;
+}
+
+.P {
+    text-align: center;
+    font-size: 30px;
+    font-variant: small-caps;
+    list-style-type: lower-roman;
+    list-style-position: outside;
+}
+
+.Q {
+    text-align: center;
+    font-size: 40px;
+    font-variant: small-caps;
+    list-style-type: inherit;
+    list-style-position: inside;
+    border-style: solid;
+    border-width: 10px;
+    border-color: purple;
+    outline-style: double;
+    outline-width: 10px;
+    outline-color: black;
+    background: lawngreen;
+    font-family: lucida handwriting, cursive;
+    color: black;
+    padding: 30px;
+    margin: 100px;
+    text-shadow: 7px 7px 7px black;
+}
+
+.R {
+    text-align: center;
+    font-size: 30px;
+    font-variant: small-caps;
+    list-style-type: upper-roman;
+    list-style-position: outside;
+}
+
+.S {
+    text-align: center;
+    font-size: 30px;
+    font-variant: small-caps;
+    list-style-type: upper-alpha;
+    list-style-position: inside;
+    margin: 50px;
+    padding: 50px;
+}

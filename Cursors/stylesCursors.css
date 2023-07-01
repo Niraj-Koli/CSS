@@ -1,0 +1,124 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-family: lucida handwriting, cursive;
+}
+
+.default {
+    cursor: default;
+    text-align: center;
+    font-size: 30px;
+    font-family: monaco, monospace;
+}
+
+.auto {
+    cursor: auto;
+    text-align: center;
+    font-size: 30px;
+    font-family: monaco, monospace;
+}
+
+.crosshair {
+    cursor: crosshair;
+    text-align: center;
+    font-size: 30px;
+    font-family: monaco, monospace;
+}
+
+.eresize {
+    cursor: e-resize;
+    text-align: center;
+    font-size: 30px;
+    font-family: monaco, monospace;
+}
+
+.help {
+    cursor: help;
+    text-align: center;
+    font-size: 30px;
+    font-family: monaco, monospace;
+}
+
+.move {
+    cursor: move;
+    text-align: center;
+    font-size: 30px;
+    font-family: monaco, monospace;
+}
+
+.nresize {
+    cursor: n-resize;
+    text-align: center;
+    font-size: 30px;
+    font-family: monaco, monospace;
+}
+
+.neresize {
+    cursor: ne-resize;
+    text-align: center;
+    font-size: 30px;
+    font-family: monaco, monospace;
+}
+
+.nwresize {
+    cursor: nw-resize;
+    text-align: center;
+    font-size: 30px;
+    font-family: monaco, monospace;
+}
+
+.pointer {
+    cursor: pointer;
+    text-align: center;
+    font-size: 30px;
+    font-family: monaco, monospace;
+}
+
+.progress {
+    cursor: progress;
+    text-align: center;
+    font-size: 30px;
+    font-family: monaco, monospace;
+}
+
+.sresize {
+    cursor: s-resize;
+    text-align: center;
+    font-size: 30px;
+    font-family: monaco, monospace;
+}
+
+.seresize {
+    cursor: se-resize;
+    text-align: center;
+    font-size: 30px;
+    font-family: monaco, monospace;
+}
+
+.swresize {
+    cursor: sw-resize;
+    text-align: center;
+    font-size: 30px;
+    font-family: monaco, monospace;
+}
+
+.text {
+    cursor: text;
+    text-align: center;
+    font-size: 30px;
+    font-family: monaco, monospace;
+}
+
+.wresize {
+    cursor: w-resize;
+    text-align: center;
+    font-size: 30px;
+    font-family: monaco, monospace;
+}
+
+.wait {
+    cursor: wait;
+    text-align: center;
+    font-size: 30px;
+    font-family: monaco, monospace;
+}
