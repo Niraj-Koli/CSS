@@ -10,65 +10,58 @@ h2 {
     font-family: cursive;
 }
 
+@media (min-width: 0px) {
+    // 0px - 199px // (max-width: 200px) //
+    body {
+        background-color: crimson;
+    }
+}
+
 @media (min-width: 200px) {
-    h2 {
-        text-align: center;
-        font-size: 50px;
-        font-family: cursive;
-        color: navy;
+    // 200px - 399px // (max-width: 400px) //
+    body {
+        background-color: navy;
     }
 }
 
 @media (min-width: 400px) {
-    h2 {
-        text-align: center;
-        font-size: 50px;
-        font-family: cursive;
-        color: yellow;
+    // 400px - 599px // (max-width: 600px) //
+    body {
+        background-color: yellow;
     }
 }
 
 @media (min-width: 600px) {
-    h2 {
-        text-align: center;
-        font-size: 50px;
-        font-family: cursive;
-        color: cyan;
+    // 600px - 799px // (max-width: 800px) //
+    body {
+        background-color: cyan;
     }
 }
 
 @media (min-width: 800px) {
-    h2 {
-        text-align: center;
-        font-size: 50px;
-        font-family: cursive;
-        color: lawngreen;
+    // 800px - 999px // (max-width: 1000px) //
+    body {
+        background-color: lime;
     }
 }
 
 @media (min-width: 1000px) {
-    h2 {
-        text-align: center;
-        font-size: 50px;
-        font-family: cursive;
-        color: magenta;
+    // 1000px - 1199px // (max-width: 1200px) //
+    body {
+        background-color: magenta;
     }
 }
 
 @media (min-width: 1200px) {
-    h2 {
-        text-align: center;
-        font-size: 50px;
-        font-family: cursive;
-        color: indigo;
+    // 1200px - 1399px // (max-width: 1400px) //
+    body {
+        background-color: indigo;
     }
 }
 
 @media (min-width: 1400px) {
-    h2 {
-        text-align: center;
-        font-size: 50px;
-        font-family: cursive;
-        color: black;
+    // 1400px - 1599px // (max-width: 1600px) //
+    body {
+        background-color: white;
     }
 }

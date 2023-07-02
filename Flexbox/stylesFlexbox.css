@@ -1,0 +1,387 @@
+// Flex Sizing //
+
+// flex-basis: 100px; // sets the initial size of the flex item //
+// flex-grow: 1; // sets the flex grow factor of a flex item //
+// flex-shrink: 1; // sets the flex shrink factor of a flex item //
+
+// flex: 1 1 100px; // shorthand for flex-grow, flex-shrink, and flex-basis //
+// flex: 1 1; // shorthand for flex-grow and flex-shrink //
+// flex: 1; // shorthand for flex-grow: 1; flex-shrink: 1; flex-basis: 0; //
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-family: lucida handwriting, cursive;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    font-family: lucida handwriting, cursive;
+}
+
+p {
+    font-size: 30px;
+    font-family: garamond, serif;
+}
+
+span {
+    font-size: 25px;
+    font-family: courier new, monospace;
+}
+
+img {
+    width: 30%;
+}
+
+.flex-container-alpha {
+    display: flex;
+    gap: 10px;
+}
+
+.card {
+    background-color: navy;
+    height: 100px;
+    flex: 1;
+}
+
+#alpha {
+    flex: 2;
+    background-color: coral;
+}
+
+#beta {
+    flex: 0.5;
+    background-color: yellow;
+}
+
+.flex-container-beta {
+    display: flex;
+    width: 70%;
+    gap: 50px;
+}
+
+.flex-container-gamma {
+    display: inline-flex;
+    width: 70%;
+    gap: 50px;
+}
+
+.flex-container-delta {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-container-delta > div {
+    flex-basis: 100px;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-epsilon {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-container-epsilon > div {
+    flex-basis: 50px;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-zeta {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.flex-container-zeta > div {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-eta {
+    display: inline-flex;
+    flex-direction: column-reverse;
+}
+
+.flex-container-eta > div {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-theta {
+    display: inline-flex;
+    flex-direction: row-reverse;
+}
+
+.flex-container-theta > div {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-iota {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-container-iota > div {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-kappa {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.flex-container-kappa > div {
+    flex-basis: 200px;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-lambda {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+}
+
+.flex-container-lambda > div {
+    flex-basis: 200px;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-mu {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.flex-container-mu > div {
+    flex-basis: 500px;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-nu {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.flex-container-nu > div {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-xi {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.flex-container-xi > div {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-omicron {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.flex-container-omicron > div {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-pi {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.flex-container-pi > div {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-rho {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.flex-container-rho > div {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-sigma {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.flex-container-sigma > div {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-tau {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    height: 150px;
+}
+
+.flex-container-tau > div {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-upsilon {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    height: 150px;
+}
+
+.flex-container-upsilon > div {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-phi {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 150px;
+}
+
+.flex-container-phi > div {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-chi {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    height: 150px;
+}
+
+.flex-container-chi > div {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-psi {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    height: 150px;
+}
+
+.flex-container-psi > div {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.flex-container-omega {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    height: 150px;
+}
+
+.flex-container-omega > div {
+    flex-basis: 200px;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.red {
+    background-color: #ff0000;
+}
+
+.coral {
+    background-color: #ff7f50;
+}
+
+.yellow {
+    background-color: #ffff00;
+}
+
+.cyan {
+    background-color: #00ffff;
+}
+
+.lime {
+    background-color: #00ff00;
+}
+
+.lavender {
+    background-color: #e6e6fa;
+}
+
+.magenta {
+    background-color: #ff00ff;
+}
+
+.violet {
+    background-color: #aa80f3;
+}
+
+.navy {
+    background-color: #0b0bff;
+}
+
+.aquamarine {
+    background-color: #00f4a2;
+    order: 1;
+}
+
+.turquoise {
+    background-color: #30d5c8;
+    order: 20;
+}
+
+.indigo {
+    background-color: #4b0082;
+    order: 6;
+}
+
+.azure {
+    background-color: #0080ff;
+}
+
+.gold {
+    background-color: #ffd700;
+    order: 15;
+}
